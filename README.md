@@ -10,3 +10,4 @@ p8 mondrian.
 p9 minimalissimo.    https://carlasalaroman.github.io/p9-minimalissimo/
 p10 img_trocejada.   https://carlasalaroman.github.io/-p10-imgtrocejada/
 p11 madebyfieldwork. https://carlasalaroman.github.io/-p11-madebyfieldwork/
+examen. 
